@@ -1,16 +1,13 @@
-### Hi there 👋
+## Grace Uche
 
-<!--
-**graceuche/graceuche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Northeastern University](https://github.com/graceuche/Resume)
 
-Here are some ideas to get you started:
+## Data Analytics 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Enthusiatic Learner
+- Dependable
+- Trust Worthy
+- Goal Oriented
+- Good Collaborator
+- Good Communicator
+- Registered Health Information Administrator
